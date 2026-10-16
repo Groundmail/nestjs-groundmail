@@ -1,0 +1,9 @@
+{
+  "extends": "../groundmail/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "experimentalDecorators": true
+  },
+  "include": ["src"]
+}
