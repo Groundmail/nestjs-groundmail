@@ -1,6 +1,6 @@
 {
   "name": "nestjs-groundmail",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "NestJS module for Groundmail transactional email: inject a ready Groundmail client anywhere in your app",
   "license": "MIT",
   "type": "module",
